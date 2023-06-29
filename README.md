@@ -3,5 +3,5 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitimi HTML bölümün
 
 Çalışmanın tarayıcıda görünümü:
 
-![image](hw1.png)
+![image](hw2.png)
 
